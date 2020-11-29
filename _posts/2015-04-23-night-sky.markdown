@@ -7,12 +7,12 @@ image: "img/d.jpg"
 date:   2020-11-29 20:12:12
 ---
 
-How to Manage Firewalld Using firewall-CMD
+## How to Manage Firewalld Using firewall-CMD
 
-#firewall-cmd --permanent --add-port=22/tcp
-#firewall-cmd --reload
-#firewall-cmd --list-all
-#firewall-cmd --permanent --remove-port=21/tcp
+	#firewall-cmd --permanent --add-port=22/tcp
+	#firewall-cmd --reload
+	#firewall-cmd --list-all
+	#firewall-cmd --permanent --remove-port=21/tcp
 
 
 1. Basic Firewall Command 
