@@ -3,7 +3,7 @@ title:  "  Linux Interview Questions "
 subtitle: "It's always a bit helpfull"
 author: "Shamsher Kushwaha"
 avatar: "img/authors/43068991.png"
-image: "img/apache-security-hardening-guide.png"
+image: "img/download.jpeg"
 date:   2010-11-29 21:00:44
 
 ---
